@@ -1,0 +1,3 @@
+﻿  Entity.cpp
+C:\Users\James\source\repos\SDLSimple\SDLSimple\Entity.cpp(38,14): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\James\source\repos\SDLSimple\Debug\SDLSimple.exe
